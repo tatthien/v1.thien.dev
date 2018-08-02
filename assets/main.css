@@ -140,10 +140,20 @@ section#socials {
     transition: all .3s ease-in-out;
 }
 
+.button:hover {
+    opacity: .7;
+}
+
 .button-outline {
     background: #fff;
     color: var(--color-primary);
     border: 2px solid var(--color-primary);
+}
+
+.button-outline:hover {
+    opacity: 1;
+    background: var(--color-primary);
+    color: #fff;
 }
 
 /** SOCIALS **/
