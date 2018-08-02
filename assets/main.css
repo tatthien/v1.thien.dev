@@ -283,3 +283,7 @@ section#socials {
     color: #fff;
     background: var(--color-primary);
 }
+
+.site-footer .heart {
+    color: red;
+}
