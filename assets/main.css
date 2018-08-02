@@ -266,3 +266,20 @@ section#socials {
         margin: 10px 0;
     }
 }
+
+/** FOOTER **/
+.site-footer {
+    padding: 2rem 0;
+    text-align: center;
+}
+
+.site-footer a {
+    color: var(--color-primary);
+    text-decoration: none;
+    transition: all .3s ease;
+}
+
+.site-footer a:hover {
+    color: #fff;
+    background: var(--color-primary);
+}
