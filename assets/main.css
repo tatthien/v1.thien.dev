@@ -275,13 +275,22 @@ section#socials {
 }
 
 @media all and (max-width: 510px) {
+    .site-header {
+        padding: 1rem 0;
+    }
+
     section#hero {
         background: var(--color-primary);
         color: #fff;
+        padding: 35px 0;
     }
 
     #hero::before, #hero::after, .hero-me {
         display: none;
+    }
+
+    .site-logo h1 {
+        line-height: 0;
     }
 
     .site-logo img {
