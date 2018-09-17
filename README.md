@@ -1,4 +1,3 @@
-# personal-website
-The source code for my personal website
+The source code for my personal website https://tatthien.com
 
-![https://i.imgur.com/VuiM8dj.png](https://i.imgur.com/VuiM8dj.png)
+![https://raw.githubusercontent.com/tatthien/personal-website/master/assets/img/og-image.jpg](https://raw.githubusercontent.com/tatthien/personal-website/master/assets/img/og-image.jpg)
